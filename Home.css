@@ -1,0 +1,111 @@
+
+body{
+  background-color: whitesmoke;
+}
+.navBar{
+    width:98%;
+    height: 5%;
+    background-color:  #2980b9;;
+    border-radius: 8px;
+    margin-top: 50px;
+    justify-content: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    
+}
+.ads_section{
+  border: 2px solid red;
+  justify-content: right;
+
+}
+
+h1{
+  color: ghostwhite;
+}
+
+
+
+.heroBar{
+    justify-content: center;
+    display: grid;
+    margin: 30px;
+    width:fit-content;
+    height: 20%;
+    text-align: center;
+    background-color:#3498db;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+
+
+.btnEl:hover{
+    background-color: #2ecc71;
+    cursor: pointer;
+}
+
+
+/* Centering and spacing the cards */
+
+
+
+.navEl{
+  display: block;
+  text-align: center;
+}
+
+
+
+
+
+
+
+.btn{
+  padding-top: 60px;
+  margin: 50px;
+  justify-items: center;
+
+}
+
+.btnEl{
+  padding: 8px;
+  border-radius: 5px;
+  border: none;
+  background-color: #3498db;;
+  width: 100%;
+  
+}
+
+
+
+
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding:0 50px;
+  text-align: center;
+  background-color: #fff;
+  width: 50%; 
+  border-radius: 10px;
+}
+
+.card:hover{
+  background-color: #f39c12;
+}
+
+/* Set the width of each column to 25% */
+.column {
+  gap: 20px;
+  display: inline-grid;
+  width: 100%;
+  padding: 0 10px; 
+  columns: 4;
+}
+
+.row{
+  padding: 50px;
+}
+
+/* Adjust card styles */
+
+
