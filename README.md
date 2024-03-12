@@ -12,10 +12,19 @@ RunnersWork is a simple HTML webpage designed to connect task seekers with task 
 ## Installation
 No installation is required. Simply open the HTML file in a web browser to view the webpage.
 
-## Usage
+## Usage for task doers
 1. Open the HTML file in a web browser.
 2. Browse through the available tasks listed on the page.
 3. Click on the "Take Offer" button to claim a task of interest (Note: login functionality not implemented, linked to "LogIn.html").
+
+## Usage for doer seekers
+1. Open the HTML file in a web browser.
+2. Browse through the available tasks listed on the page.
+3. Select a task from the dropdown menu under "Task/Job."
+4. Enter the offered payment amount in the input field labeled "Offer/Payment."
+5. Click the "Submit" button to post the task.
+6. Others can view your posted task and choose to accept it by clicking the "Take Offer" button (Note: login functionality not implemented, linked to "LogIn.html").
+
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
